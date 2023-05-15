@@ -1,0 +1,15 @@
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\bin\Debug\net6.0\Week15-OOPandFiles.exe
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\bin\Debug\net6.0\Week15-OOPandFiles.deps.json
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\bin\Debug\net6.0\Week15-OOPandFiles.runtimeconfig.json
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\bin\Debug\net6.0\Week15-OOPandFiles.dll
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\bin\Debug\net6.0\Week15-OOPandFiles.pdb
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\obj\Debug\net6.0\Week15-OOPandFiles.csproj.AssemblyReference.cache
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\obj\Debug\net6.0\Week15-OOPandFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\obj\Debug\net6.0\Week15-OOPandFiles.AssemblyInfoInputs.cache
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\obj\Debug\net6.0\Week15-OOPandFiles.AssemblyInfo.cs
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\obj\Debug\net6.0\Week15-OOPandFiles.csproj.CoreCompileInputs.cache
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\obj\Debug\net6.0\Week15-OOPandFiles.dll
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\obj\Debug\net6.0\refint\Week15-OOPandFiles.dll
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\obj\Debug\net6.0\Week15-OOPandFiles.pdb
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\obj\Debug\net6.0\Week15-OOPandFiles.genruntimeconfig.cache
+C:\Users\pentl\source\repos\Week15-OOPandFiles\Week15-OOPandFiles\obj\Debug\net6.0\ref\Week15-OOPandFiles.dll
